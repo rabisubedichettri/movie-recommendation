@@ -1,6 +1,6 @@
 # Welcome to Movie Recommendation System
 
-This system is made by using cosine similarty algorithm based on content approach. Here i used dataset [tmdb_5000_movies.csv and tmdb_5000_credits.csv ](https://www.kaggle.com/tmdb/tmdb-movie-metadata) for training model.
+This system is made by using cosine similarty algorithm based on content approach. Here i have used dataset [tmdb_5000_movies.csv and tmdb_5000_credits.csv ](https://www.kaggle.com/tmdb/tmdb-movie-metadata) for training model.
 
 ## Setup
 
@@ -24,4 +24,4 @@ This system is made by using cosine similarty algorithm based on content approac
 
 Click [here ](https://movierecommendation2022.herokuapp.com/) to see demo
 
-![DEMO](demo.jpg "Demo")
+<img src="https://github.com/rabisubedichettri/movie-recommendation/blob/main/demo.JPG" alt="demo" style="height: 100px; width:100px;"/>
