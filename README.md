@@ -24,4 +24,4 @@ This system is made by using cosine similarty algorithm based on content approac
 
 Click [here ](https://movierecommendation2022.herokuapp.com/) to see demo
 
-<img src="https://github.com/rabisubedichettri/movie-recommendation/blob/main/demo.JPG" alt="demo" style="height: 100px; width:100px;"/>
+<img src="https://github.com/rabisubedichettri/movie-recommendation/blob/main/demo.JPG" alt="demo" style="height: 500px; width:500px;"/>
